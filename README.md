@@ -4,5 +4,5 @@ This project is my [Franklin University](https://Franklin.edu) master's project 
 
 Key Notebooks:
 
-- [TrainingAggregation.ipynb] - A Jupyter Notebook with Python built to explore overall trends, build a merged dataset, and create a representative proportional sample from the overall data in `data/input` with as little class imbalance as possible
-- [LabelledEDA.ipynb] - a Jupyter Notebook with Python built to explore the labelled dataset and review the manual label correction process on the training data
+- [TrainingAggregation.ipynb](TrainingAggregation.ipynb) - A Jupyter Notebook with Python built to explore overall trends, build a merged dataset, and create a representative proportional sample from the overall data in `data/input` with as little class imbalance as possible
+- [LabelledEDA.ipynb](LabelledEDA.ipynb) - a Jupyter Notebook with Python built to explore the labelled dataset and review the manual label correction process on the training data
