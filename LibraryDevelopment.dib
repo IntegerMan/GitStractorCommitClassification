@@ -1,0 +1,55 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"}]}}
+
+#!csharp
+
+#r "nuget:Microsoft.Data.Analysis"
+#r "nuget:Microsoft.ML"
+#r "nuget:Microsoft.ML.AutoML"
+#r "nuget:Newtonsoft.Json"
+#r "nuget:Plotly.NET"
+#r "nuget:Plotly.NET.Interactive"
+
+using Microsoft.DotNet.Interactive.Formatting;
+using Microsoft.Data.Analysis;
+using Microsoft.ML;
+using Microsoft.ML.AutoML;
+using Microsoft.ML.AutoML.CodeGen;
+using Microsoft.ML.SearchSpace;
+using Microsoft.ML.SearchSpace.Option;
+using Microsoft.ML.Data;
+using Microsoft.ML.Trainers;
+using Microsoft.ML.Transforms;
+using Microsoft.ML.Transforms.Text;
+using Newtonsoft.Json;
+using System.Reflection;
+
+#!csharp
+
+//#r "nuget:MattEland.ML"
+//#r "nuget:MattEland.ML.Charts"
+//#r "nuget:MattEland.ML.DataFrames"
+//#r "nuget:MattEland.ML.Interactive"
+#r "/home/matteland/Documents/MattEland.ML/MattEland.ML/MattEland.ML/bin/Debug/net8.0/MattEland.ML.dll"
+#r "/home/matteland/Documents/MattEland.ML/MattEland.ML/MattEland.ML.DataFrames/bin/Debug/net8.0/MattEland.ML.DataFrames.dll"
+#r "/home/matteland/Documents/MattEland.ML/MattEland.ML/MattEland.ML.Charts/bin/Debug/net8.0/MattEland.ML.Charts.dll"
+#r "/home/matteland/Documents/MattEland.ML/MattEland.ML/MattEland.ML.Interactive/bin/Debug/net8.0/MattEland.ML.Interactive.dll"
+
+using MattEland.ML;
+using MattEland.ML.Charts;
+using MattEland.ML.DataFrames;
+using MattEland.ML.Interactive;
+
+await MattEland.ML.Interactive.InteractiveExtensions.Load(Microsoft.DotNet.Interactive.KernelInvocationContext.Current.HandlingKernel.RootKernel);
+
+#!csharp
+
+MLContext context = new();
+
+var featurizer = context.Auto().Featurizer();
+featurizer.GetType().Name
+
+#!csharp
+
+#!pipeline-vis featurizer
