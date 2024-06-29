@@ -1,0 +1,500 @@
+Label,Message,Source,IsMerge,WorkItems,TotalFiles,ModifiedFiles,AddedFiles,DeletedFiles,TotalLines,NetLines,AddedLines,DeletedLines,HasAddedFiles,HasDeletedFiles,MessageLength,WordCount
+False,Add test,dotnetinteractive,False,0,1,1,0,0,964,18,18,0,False,False,8,2
+False,Merge pull request #2836 from AbhitejJohn/fixtypo,dotnetinteractive,True,1,2,2,0,0,188,0,2,2,False,False,49,6
+False,notebook changes,dotnetinteractive,False,0,1,1,0,0,538,60,535,475,False,False,16,2
+False,Merge pull request #553 from cartermp/fsharp-samples-update,dotnetinteractive,True,1,3,1,1,1,1198,203,492,289,True,True,59,6
+False,Update dependencies from https://github.com/dotnet/arcade build 20201201.2,dotnetinteractive,False,0,4,4,0,0,567,5,14,9,False,False,74,6
+False,update dotnet sdk to 3.1.200,dotnetinteractive,False,0,4,4,0,0,415,0,5,5,False,False,28,5
+False,change gesture for the sanddance,dotnetinteractive,False,0,1,1,0,0,117,0,1,1,False,False,32,5
+False,Update dependencies from https://github.com/dotnet/arcade build 20240110.4 (#3415),dotnetinteractive,False,1,2,2,0,0,25,0,3,3,False,False,82,7
+False,update system drawing,dotnetinteractive,False,0,1,1,0,0,47,0,1,1,False,False,21,3
+False,http routing refactor,dotnetinteractive,False,0,3,2,1,0,248,8,55,47,True,False,21,3
+False,test that submit code command is used,dotnetinteractive,False,0,2,2,0,0,100,18,22,4,False,False,37,7
+False,Update dependencies from https://github.com/dotnet/arcade build 20220203.1 (#1896),dotnetinteractive,False,1,4,4,0,0,377,1,6,5,False,False,82,7
+False,Merge pull request #717 from dotnet/darc-master-32038347-c786-453c-9dfd-fb2811d5fe01,dotnetinteractive,True,1,2,2,0,0,22,0,3,3,False,False,84,6
+False,Update dependencies from https://github.com/dotnet/arcade build 20200330.5,dotnetinteractive,False,0,11,11,0,0,1428,77,130,53,False,False,74,6
+False,js kernel can evaluate javascript code,dotnetinteractive,False,0,2,2,0,0,402,65,68,3,False,False,38,6
+False,Update dependencies from https://github.com/dotnet/arcade build 20200805.7,dotnetinteractive,False,0,5,5,0,0,1010,36,43,7,False,False,74,6
+False,add copyright header,dotnetinteractive,False,0,2,2,0,0,148,6,6,0,False,False,20,3
+False,refactor,dotnetinteractive,False,0,1,1,0,0,133,1,3,2,False,False,8,1
+False,use int?,dotnetinteractive,False,0,4,4,0,0,918,0,5,5,False,False,8,2
+False,Localized file check-in by OneLocBuild Task: Build definition ID 743: Build ID 2440278,dotnetinteractive,False,0,13,13,0,0,143,39,52,13,False,False,86,13
+False,improving the lifespan of the universe,dotnetinteractive,False,0,1,1,0,0,81,-1,1,2,False,False,38,6
+False,Merge pull request #200 from jonsequitur/application-json-formatting,dotnetinteractive,True,1,12,8,4,0,1847,168,257,89,True,False,68,6
+False,Adding PowerShell Notebook Examples (#117),dotnetinteractive,False,1,2,0,2,0,208,208,208,0,True,False,42,5
+False,"update magic command, extension docs & clock sample",dotnetinteractive,False,0,9,8,1,0,1388,201,428,227,True,False,51,8
+True,Tolerance of punctuation for leading request (#3456),dotnetinteractive,False,1,2,2,0,0,1228,56,57,1,False,False,52,7
+False,wait for any in-flight sdk acquisitions before checking the version (#1190),dotnetinteractive,False,1,1,1,0,0,248,18,19,1,False,False,75,11
+False,updated notebooks got repo metrics,dotnetinteractive,False,0,2,2,0,0,854,84,109,25,False,False,34,5
+False,add action plan,dotnetinteractive,False,0,2,1,1,0,75,19,21,2,True,False,15,3
+False,is Artur right???,dotnetinteractive,False,0,8,6,1,1,631,17,154,137,True,True,17,3
+False,add internal repo notes (#460),dotnetinteractive,False,1,1,0,1,0,23,23,23,0,True,False,30,5
+False,add support for response message,dotnetinteractive,False,0,5,5,0,0,385,49,74,25,False,False,32,5
+False,Publish interactive packages (#427),dotnetinteractive,False,1,28,23,5,0,1461,157,211,54,True,False,35,4
+False,Allow the user to specify the port,dotnetinteractive,False,0,4,4,0,0,1115,14,19,5,False,False,34,7
+False,isolated folders,dotnetinteractive,False,0,5,5,0,0,158,0,3,3,False,False,16,2
+False,update icons,dotnetinteractive,False,0,3,3,0,0,171,0,0,0,False,False,12,2
+False,Merge pull request #1710 from brettfo/merge-release-dotnet6-to-main,dotnetinteractive,True,1,56,55,1,0,5048,63,300,237,True,False,67,6
+False,Update README.md,dotnetinteractive,False,0,1,1,0,0,73,0,1,1,False,False,16,2
+False,debounce all language service commands by type and all on execute,dotnetinteractive,False,0,13,13,0,0,5296,45,102,57,False,False,65,11
+False,Update readme.md,dotnetinteractive,False,0,1,1,0,0,47,0,1,1,False,False,16,2
+False,adding html fotmatting (#2544),dotnetinteractive,False,1,3,3,0,0,529,106,113,7,False,False,30,4
+False,Update README.md,dotnetinteractive,False,0,1,1,0,0,106,2,2,0,False,False,16,2
+False,cleanup public api surface,dotnetinteractive,False,0,9,8,1,0,1859,14,50,36,True,False,26,4
+False,Update variable-sharing.md,dotnetinteractive,False,0,1,1,0,0,142,0,1,1,False,False,26,2
+False,Update setup-rapbian.sh,dotnetinteractive,False,0,1,1,0,0,91,-2,1,3,False,False,23,2
+False,Merge pull request #614 from msynk/patch-4,dotnetinteractive,True,1,1,1,0,0,28,0,2,2,False,False,42,6
+False,cleanup,dotnetinteractive,False,0,3,3,0,0,648,53,71,18,False,False,7,1
+False,Add comment,dotnetinteractive,False,0,1,1,0,0,227,6,7,1,False,False,11,2
+False,update for the new edit api,dotnetinteractive,False,0,3,3,0,0,14417,2,26,24,False,False,27,6
+False,improve #!value docs,dotnetinteractive,False,0,3,2,1,0,472,107,148,41,True,False,20,3
+False,Merge pull request #659 from jonsequitur/rename-Rendering,dotnetinteractive,True,1,76,75,1,0,9645,64,166,102,True,False,57,6
+False,Also pack wasmcoderunner (#376),dotnetinteractive,False,1,1,1,0,0,16,3,4,1,False,False,31,4
+False,add support for calculating centroid of a list of vectors,dotnetinteractive,False,0,2,0,2,0,42,42,42,0,True,False,57,10
+False,Update dependencies from https://github.com/dotnet/arcade build 20200224.3,dotnetinteractive,False,0,2,2,0,0,22,0,3,3,False,False,74,6
+False,kql and sql discoverabilty improvements,dotnetinteractive,False,0,8,7,1,0,2143,137,175,38,True,False,39,5
+False,add copyright headers,dotnetinteractive,False,0,4,4,0,0,224,16,19,3,False,False,21,3
+False,Update dependencies from https://github.com/dotnet/arcade build 20230411.2 (#2908),dotnetinteractive,False,1,3,3,0,0,169,0,6,6,False,False,82,7
+False,Update publish-npm.yml,dotnetinteractive,False,0,1,1,0,0,40,0,1,1,False,False,22,2
+False,clean up,dotnetinteractive,False,0,1,1,0,0,408,-2,0,2,False,False,8,2
+False,Merge pull request #630 from pgovind/DataFrameSample_1,dotnetinteractive,True,1,2,2,0,0,1006,-2,2,4,False,False,54,6
+False,add default implementation,dotnetinteractive,False,0,2,1,1,0,172,108,134,26,True,False,26,3
+False,add SqlToolsService reference,dotnetinteractive,False,0,1,1,0,0,86,1,1,0,False,False,29,3
+True,missing file,dotnetinteractive,False,0,1,1,0,0,54,-1,1,2,False,False,12,2
+False,Minor logging changes.,dotnetinteractive,False,0,2,2,0,0,487,-1,2,3,False,False,22,3
+False,update api,dotnetinteractive,False,0,1,1,0,0,185,0,1,1,False,False,10,2
+False,R: rename,dotnetinteractive,False,0,1,1,0,0,72,0,0,0,False,False,9,2
+False,Update README.md,dotnetinteractive,False,0,1,1,0,0,113,0,3,3,False,False,16,2
+False,update version,dotnetinteractive,False,0,1,1,0,0,847,0,1,1,False,False,14,2
+False,update docs to reflect .NET 5 update,dotnetinteractive,False,0,2,2,0,0,99,0,2,2,False,False,36,7
+False,Merge pull request #521 from KevinRansom/tuesday,dotnetinteractive,True,1,5,5,0,0,2022,28,32,4,False,False,48,6
+False,"use GetInput as top level function, no variable injection",dotnetinteractive,False,0,8,8,0,0,1367,53,102,49,False,False,57,9
+False,Merged PR 1684342: support for utf8 encoding and emoji,dotnetinteractive,False,0,1,1,0,0,1,0,1,1,False,False,54,9
+False,Merge pull request #143 from daxian-dbw/exepolicy,dotnetinteractive,True,1,2,2,0,0,373,7,9,2,False,False,49,6
+False,Merge pull request #671 from colombod/feature/dotnet-interactive-sln,dotnetinteractive,True,1,5,4,1,0,521,141,247,106,True,False,68,6
+False,Update dependencies from https://github.com/dotnet/arcade build 20200715.6 (#650),dotnetinteractive,False,1,3,3,0,0,404,12,15,3,False,False,81,7
+False,Merge pull request #375 from colombod/feature/folder_structure,dotnetinteractive,True,1,588,587,1,0,61111,13,61,48,True,False,62,6
+False,Merge pull request #572 from colombod/feature/token_for_demo,dotnetinteractive,True,1,1,1,0,0,565,224,245,21,False,False,60,6
+False,add instructions for running a dotnet6 kernel,dotnetinteractive,False,0,1,0,1,0,38,38,38,0,True,False,45,7
+False,Update dependencies from https://github.com/dotnet/arcade build 20220224.4,dotnetinteractive,False,0,2,2,0,0,25,0,3,3,False,False,74,6
+False,sort kernel picker values by name,dotnetinteractive,False,0,1,1,0,0,64,3,4,1,False,False,33,6
+False,VisitSubkernelsAndSelf,dotnetinteractive,False,0,2,2,0,0,544,75,75,0,False,False,22,1
+False,change document update strategy,dotnetinteractive,False,0,3,3,0,0,751,10,61,51,False,False,31,4
+False,rename test,dotnetinteractive,False,0,1,1,0,0,466,0,1,1,False,False,11,2
+False,Update release.yml,dotnetinteractive,False,0,1,1,0,0,107,3,3,0,False,False,18,2
+False,migrate to net5.0 (#893),dotnetinteractive,False,1,48,48,0,0,4792,96,152,56,False,False,24,4
+False,#r nuget output,dotnetinteractive,False,0,3,3,0,0,1888,177,209,32,False,False,15,3
+False,More polishing,dotnetinteractive,False,0,1,1,0,0,662,22,48,26,False,False,14,2
+False,Merge pull request #237 from jonsequitur/PowerShellKernel.TryGetVariable,dotnetinteractive,True,1,1,1,0,0,235,8,8,0,False,False,72,6
+False,publish AspNetCore package (#2224),dotnetinteractive,False,1,1,1,0,0,62,0,1,1,False,False,34,4
+False,Update package.json,dotnetinteractive,False,0,1,1,0,0,275,0,1,1,False,False,19,2
+False,Update docs/NotebookswithJupyter.md,dotnetinteractive,False,0,1,1,0,0,73,-1,1,2,False,False,35,2
+False,Merge pull request #385 from colombod/feature/xplot_nteract,dotnetinteractive,True,1,3,3,0,0,179,17,29,12,False,False,59,6
+False,better image,dotnetinteractive,False,0,2,2,0,0,299,-1,8,9,False,False,12,2
+False,default port range for jupyter,dotnetinteractive,False,0,2,2,0,0,463,0,2,2,False,False,30,5
+False,use lookup table for context,dotnetinteractive,False,0,4,4,0,0,1988,57,92,35,False,False,28,5
+False,Update dependencies from https://github.com/dotnet/arcade build 20201216.18,dotnetinteractive,False,0,4,4,0,0,567,0,5,5,False,False,75,6
+False,Update README.md,dotnetinteractive,False,0,1,1,0,0,61,1,1,0,False,False,16,2
+False,wip,dotnetinteractive,False,0,2,2,0,0,787,38,39,1,False,False,3,1
+False,enable #!share on js for vscode,dotnetinteractive,False,0,1,1,0,0,58,2,2,0,False,False,31,6
+False,Update readme.md,dotnetinteractive,False,0,1,1,0,0,9,0,2,2,False,False,16,2
+False,Add Gitter badge,dotnetinteractive,False,0,1,1,0,0,61,0,1,1,False,False,16,3
+False,rename methods,dotnetinteractive,False,0,2,2,0,0,856,0,4,4,False,False,14,2
+False,Merge pull request #7 from colombod/feature/merge_from_try,dotnetinteractive,True,1,29,21,8,0,3440,222,628,406,True,False,58,6
+False,default to using the jupyter extension,dotnetinteractive,False,0,2,2,0,0,501,7,10,3,False,False,38,6
+False,Update dependencies from https://github.com/dotnet/arcade build 20230808.3 (#3128),dotnetinteractive,False,1,2,2,0,0,25,0,5,5,False,False,82,7
+False,Merge pull request #635 from jonsequitur/but_CAN_it_cancel_execution,dotnetinteractive,True,1,1,1,0,0,1287,-1,6,7,False,False,68,6
+False,Configure LUT's shadow copying to include all outputs for the app project.,dotnetinteractive,False,0,1,1,0,0,201,4,4,0,False,False,74,12
+False,update typescript code for message contract changes,dotnetinteractive,False,0,2,2,0,0,662,1,2,1,False,False,51,7
+False,refactor `SubmitCode` handling to use IKernelCommandHandler<> interface (#527),dotnetinteractive,False,1,22,20,2,0,3652,57,107,50,True,False,78,8
+False,Merge pull request #640 from talanc/patch-3,dotnetinteractive,True,1,1,1,0,0,45,0,1,1,False,False,43,6
+False,update System.CommandLine to 2.0.0-beta1.21308.1,dotnetinteractive,False,0,4,4,0,0,275,0,4,4,False,False,48,4
+False,skip tests,dotnetinteractive,False,0,1,1,0,0,953,1,5,4,False,False,10,2
+False,Update dependencies from https://github.com/dotnet/arcade build 20200428.4,dotnetinteractive,False,0,7,6,1,0,1574,121,137,16,True,False,74,6
+False,make preload script a module to comply with vscode changes (#2590),dotnetinteractive,False,1,8,7,1,0,2294,52,73,21,True,False,66,11
+False,compute cursor start for replacement,dotnetinteractive,False,0,1,1,0,0,238,1,2,1,False,False,36,5
+False,Update CreateBinder.md,dotnetinteractive,False,0,1,1,0,0,63,-2,0,2,False,False,22,2
+False,update HttpRequestKernel to use new parser,dotnetinteractive,False,1,22,22,0,0,3136,1,464,463,False,False,96,13
+False,modifiy dotnet-interactive js to expose.configureRequire intest of getJsLoader,dotnetinteractive,False,0,3,3,0,0,264,9,13,4,False,False,78,8
+False,Update readme.md,dotnetinteractive,False,0,1,1,0,0,9,0,1,1,False,False,16,2
+False,find the type name,dotnetinteractive,False,0,1,1,0,0,209,2,6,4,False,False,18,4
+False,R: a few renames,dotnetinteractive,False,0,5,5,0,0,1024,2,11,9,False,False,16,4
+False,pr feedback,dotnetinteractive,False,0,9,9,0,0,2383,-1,8,9,False,False,11,2
+False,write to all child,dotnetinteractive,False,0,1,1,0,0,117,3,4,1,False,False,18,4
+False,strict mock,dotnetinteractive,False,0,1,1,0,0,70,7,8,1,False,False,11,2
+False,simplify post mock,dotnetinteractive,False,0,1,1,0,0,67,-2,5,7,False,False,18,3
+False,update package lock,dotnetinteractive,False,0,1,1,0,0,9765,0,1,1,False,False,19,3
+False,add script-based extension sample and documentation,dotnetinteractive,False,0,7,3,4,0,287,109,119,10,True,False,51,6
+False,kernelinfo carries information on kernel type (#2716),dotnetinteractive,False,1,19,19,0,0,7232,49,234,185,False,False,53,7
+False,Merge pull request #1640 from brettfo/lock-tool-version,dotnetinteractive,False,1,2,2,0,0,964,0,2,2,False,False,55,6
+False,refactoring buidler setup,dotnetinteractive,False,0,8,7,1,0,1135,51,135,84,True,False,25,3
+False,support for random order,dotnetinteractive,False,0,2,0,2,0,47,47,47,0,True,False,24,4
+False,add header,dotnetinteractive,False,0,1,1,0,0,38,3,4,1,False,False,10,2
+False,Update release.yml,dotnetinteractive,False,0,1,1,0,0,84,0,1,1,False,False,18,2
+False,pdb settings,dotnetinteractive,False,0,1,1,0,0,24,1,1,0,False,False,12,2
+False,making Brett happy,dotnetinteractive,False,0,1,1,0,0,1111,0,1,1,False,False,18,3
+False,Update src/Microsoft.DotNet.Interactive.Jupyter/Microsoft.DotNet.Interactive.Jupyter.csproj,dotnetinteractive,False,0,1,1,0,0,59,0,1,1,False,False,91,2
+False,R:rename,dotnetinteractive,False,0,1,1,0,0,134,0,0,0,False,False,8,1
+False,move all vscode-specific files to own directory,dotnetinteractive,False,0,5,5,0,0,14554,6,45,39,False,False,47,7
+False,Update README.md,dotnetinteractive,False,0,1,1,0,0,61,0,2,2,False,False,16,2
+False,rename functions,dotnetinteractive,False,0,1,1,0,0,138,0,4,4,False,False,16,2
+False,use parsed token,dotnetinteractive,False,0,2,2,0,0,608,6,19,13,False,False,16,3
+False,testing frameworks,dotnetinteractive,False,0,12,12,0,0,518,12,25,13,False,False,18,2
+False,only for him,dotnetinteractive,False,0,1,1,0,0,85,0,1,1,False,False,12,3
+False,Update readme.md,dotnetinteractive,False,0,1,1,0,0,29,-1,1,2,False,False,16,2
+False,serialize tabular data resource,dotnetinteractive,False,0,2,2,0,0,66,3,4,1,False,False,31,4
+True,fix deprecation warning,dotnetinteractive,False,0,2,2,0,0,76,0,2,2,False,False,23,3
+False,Update setup-raspbian-jupyter.sh,dotnetinteractive,False,0,1,1,0,0,40,1,2,1,False,False,32,2
+False,Use housingPath instead of literal string,dotnetinteractive,False,0,1,1,0,0,342,0,1,1,False,False,41,6
+False,improve parsing and diagnostics for HTTP version node (#3153),dotnetinteractive,False,1,5,5,0,0,1281,20,67,47,False,False,61,9
+True,add better detection for bad symlinks,dotnetinteractive,False,0,3,3,0,0,230,23,23,0,False,False,37,6
+False,expand displayAs to use multiple mimetypes,dotnetinteractive,False,0,2,2,0,0,131,5,12,7,False,False,42,6
+False,api contract update,dotnetinteractive,False,0,1,1,0,0,949,1,1,0,False,False,19,3
+False,Bump tough-cookie from 4.0.0 to 4.1.3 in /src/polyglot-notebooks,dotnetinteractive,False,0,1,1,0,0,6774,51,65,14,False,False,64,8
+False,variable sharing tests,dotnetinteractive,False,0,1,1,0,0,577,1,6,5,False,False,22,3
+False,update tool version (#524),dotnetinteractive,False,1,1,1,0,0,245,0,1,1,False,False,26,4
+False,add cell execution count,dotnetinteractive,False,0,5,5,0,0,1733,28,47,19,False,False,24,4
+False,add support for clearing variables from HttpKernel (#3467),dotnetinteractive,False,1,7,5,2,0,3201,71,80,9,True,False,58,8
+True,null check,dotnetinteractive,False,0,1,1,0,0,312,0,1,1,False,False,10,2
+False,Merge pull request #151 from KexyBiscuit/patch-1,dotnetinteractive,True,1,1,1,0,0,52,0,5,5,False,False,48,6
+True,fix vulnerability,dotnetinteractive,False,0,2,2,0,0,2687,17,117,100,False,False,17,2
+False,add sql grammar and magic command switcher,dotnetinteractive,False,0,6,4,2,0,892,131,143,12,True,False,42,7
+True,CSS table style fix,dotnetinteractive,False,0,2,2,0,0,673,4,10,6,False,False,19,4
+False,broaden preferred kernel detection (#1217),dotnetinteractive,False,1,2,2,0,0,600,31,33,2,False,False,42,5
+True,add logging for exception,dotnetinteractive,False,0,3,3,0,0,835,0,12,12,False,False,25,4
+True,fix variable store in data kernel,dotnetinteractive,False,0,3,3,0,0,874,36,39,3,False,False,33,6
+True,make sure strings are formatted to valid HTML and JSON,dotnetinteractive,False,0,17,17,0,0,4707,99,158,59,False,False,54,10
+False,remove unused namespaces,dotnetinteractive,False,0,1,1,0,0,43,-1,0,1,False,False,24,3
+True,fall back to publish v1 (#918),dotnetinteractive,False,1,2,2,0,0,343,2,4,2,False,False,30,6
+False,lock workspace,dotnetinteractive,False,0,1,1,0,0,291,12,33,21,False,False,14,2
+False,change publishing script to use allow list,dotnetinteractive,False,0,1,1,0,0,96,28,35,7,False,False,42,7
+True,Replace RestoreSources with #i (#162),dotnetinteractive,False,1,10,10,0,0,2207,50,257,207,False,False,37,5
+False,make import extension use current command as parent.,dotnetinteractive,False,0,5,5,0,0,2503,62,71,9,False,False,52,8
+False,change assertion,dotnetinteractive,False,0,1,1,0,0,212,0,1,1,False,False,16,2
+False,Merge pull request #2922 from ocallesp/embed-resources-to-dotnet-interactive-visualstudio,dotnetinteractive,True,1,1,1,0,0,49,6,6,0,False,False,89,6
+True,fix sql test,dotnetinteractive,False,0,1,1,0,0,148,1,4,3,False,False,12,3
+True,fix code and ncrunch support,dotnetinteractive,False,0,3,3,0,0,264,-3,21,24,False,False,28,5
+False,Update SqlToolsService to 157,dotnetinteractive,False,0,6,6,0,0,1444,6,50,44,False,False,29,4
+True,handle array type in tabular data resource mapping,dotnetinteractive,False,0,1,1,0,0,161,1,1,0,False,False,50,8
+True,magic command parsing and error improvements (#542),dotnetinteractive,False,1,21,16,5,0,3669,207,345,138,True,False,51,7
+True,"ensure that there are no ""nulls"" in the signature calculation",dotnetinteractive,False,0,7,7,0,0,88,3,11,8,False,False,61,10
+True,don't generate sbom for docker builds (#1912),dotnetinteractive,False,1,1,1,0,0,387,3,3,0,False,False,45,7
+True,fix contracts,dotnetinteractive,False,0,6,6,0,0,1075,-5,5,10,False,False,13,2
+False,Update CredScanSuppressions.json,dotnetinteractive,False,0,1,1,0,0,9,0,3,3,False,False,32,2
+True,fix test,dotnetinteractive,False,0,1,1,0,0,417,0,2,2,False,False,8,2
+True,fix tunnel,dotnetinteractive,False,0,2,2,0,0,543,11,24,13,False,False,10,2
+False,allow opening notebooks via uris (#1254),dotnetinteractive,False,1,4,4,0,0,1292,32,39,7,False,False,40,6
+True,Merge pull request #642 from jonsequitur/bug-fixes,dotnetinteractive,True,1,3,3,0,0,587,31,41,10,False,False,50,6
+True,Don't set HttpRequestMessage.Content when there is no body.,dotnetinteractive,False,0,5,5,0,0,1571,79,125,46,False,False,59,8
+True,fix handling of completions that rely on nested commands (#2727),dotnetinteractive,False,1,3,3,0,0,1569,22,36,14,False,False,64,10
+True,fix plot version,dotnetinteractive,False,0,11,11,0,0,4885,0,65,65,False,False,16,3
+True,Merge pull request #631 from jonsequitur/fix-627,dotnetinteractive,True,1,11,11,0,0,534,0,11,11,False,False,48,6
+True,fix help error,dotnetinteractive,False,0,1,1,0,0,127,1,2,1,False,False,14,3
+True,Check for embedded expressions in Url Node (#3345),dotnetinteractive,False,1,2,2,0,0,1826,29,31,2,False,False,50,8
+True,ensure aspnet.webapi package exists (#266),dotnetinteractive,False,1,1,1,0,0,59,1,2,1,False,False,42,5
+True,fix logging behaviour,dotnetinteractive,False,0,2,2,0,0,702,-2,5,7,False,False,21,3
+True,address nullable errors,dotnetinteractive,False,0,1,1,0,0,41,0,1,1,False,False,23,3
+False,Update Chart Display methods,dotnetinteractive,False,0,1,1,0,0,342,0,6,6,False,False,28,4
+True,fix devcontainer dotnet image tag,dotnetinteractive,False,0,2,2,0,0,92,0,3,3,False,False,33,5
+False,don't specify MIME type directly in SQL kernels,dotnetinteractive,False,0,3,3,0,0,519,5,13,8,False,False,47,8
+True,fix bug with getting help when not in conda env,dotnetinteractive,False,0,1,1,0,0,115,9,18,9,False,False,47,10
+False,Remove not needed code,dotnetinteractive,False,0,1,1,0,0,54,-5,0,5,False,False,22,4
+True,fix typo,dotnetinteractive,False,0,1,1,0,0,394,0,1,1,False,False,8,2
+True,throttle commands at the kernel host level (#2815),dotnetinteractive,False,1,1,1,0,0,193,16,21,5,False,False,50,8
+True,fix signature,dotnetinteractive,False,0,1,1,0,0,108,1,1,0,False,False,13,2
+True,improve clock rendering,dotnetinteractive,False,0,1,1,0,0,155,-2,1,3,False,False,23,3
+False,update publish verification script,dotnetinteractive,False,0,1,1,0,0,51,0,1,1,False,False,34,4
+False,"update telemetry to use environment variable in tests, better naming",dotnetinteractive,False,0,2,2,0,0,253,2,11,9,False,False,68,10
+True,Fixes,dotnetinteractive,False,0,3,3,0,0,869,20,31,11,False,False,5,1
+True,fix ts-lint error,dotnetinteractive,False,0,1,1,0,0,127,0,1,1,False,False,17,3
+True,report notebook URL fetch errors (#1888),dotnetinteractive,False,1,1,1,0,0,379,10,10,0,False,False,40,6
+False,always use file extension when opening a notebook,dotnetinteractive,False,0,4,4,0,0,4190,8,29,21,False,False,49,8
+True,Merge pull request #610 from TIHan/telemetry-fix2,dotnetinteractive,True,1,1,1,0,0,190,23,25,2,False,False,49,6
+True,require dotnet sdk to already be on the machine (#1106),dotnetinteractive,False,1,7,6,0,1,1365,31,101,70,False,True,55,10
+True,test to keep interactive host GetInputAsync consistent,dotnetinteractive,False,0,1,0,1,0,41,41,41,0,True,False,54,7
+True,Merge pull request #2234 from jonsequitur/no-share-by-ref-when-mime-type-specified,dotnetinteractive,True,1,2,2,0,0,1051,26,32,6,False,False,82,6
+False,implement `%whos` magic command for F# (#730),dotnetinteractive,False,1,9,8,1,0,1513,125,201,76,True,False,45,7
+False,make FrontendEnvironment a KernelBase property,dotnetinteractive,False,0,17,17,0,0,2825,-2,97,99,False,False,46,5
+True,Update bug_report.md,dotnetinteractive,False,0,1,1,0,0,41,0,1,1,False,False,20,2
+True,Revert quotes change.,dotnetinteractive,False,0,1,1,0,0,429,0,1,1,False,False,21,3
+True,fix case,dotnetinteractive,False,0,1,1,0,0,293,0,2,2,False,False,8,2
+False,lock version for tests,dotnetinteractive,False,0,1,1,0,0,952,-1,4,5,False,False,22,4
+True,remove stream reset from test,dotnetinteractive,False,0,1,1,0,0,57,-1,3,4,False,False,29,5
+True,fix tests,dotnetinteractive,False,0,2,2,0,0,317,17,25,8,False,False,9,2
+True,errors,dotnetinteractive,False,0,1,1,0,0,215,0,1,1,False,False,6,1
+False,update api contract,dotnetinteractive,False,0,1,1,0,0,955,1,2,1,False,False,19,3
+False,Bump url-parse in /src/Microsoft.DotNet.Interactive.Js,dotnetinteractive,False,0,1,1,0,0,2596,0,3,3,False,False,54,4
+True,Merge pull request #395 from colombod/feature/fix_build_and_install,dotnetinteractive,True,1,1,1,0,0,25,0,3,3,False,False,67,6
+False,"deferred command have token starting with label ""deferredCommand::""",dotnetinteractive,False,0,4,4,0,0,1544,1,8,7,False,False,67,8
+False,delete unused fields,dotnetinteractive,False,0,2,2,0,0,476,3,28,25,False,False,20,3
+True,Add missing command registration to fix deadlock. (#3471),dotnetinteractive,False,1,1,1,0,0,339,6,6,0,False,False,57,8
+True,Temporarily remove parent-pid launch argument for Kusto,dotnetinteractive,False,0,1,1,0,0,84,0,1,1,False,False,55,7
+False,Combinatorial testing for diagnostics (#3151),dotnetinteractive,False,1,4,4,0,0,1199,151,209,58,False,False,45,5
+False,cache variable explorer rows,dotnetinteractive,False,0,3,3,0,0,785,12,86,74,False,False,28,4
+True,fixes + tests,dotnetinteractive,False,0,9,7,2,0,1604,214,259,45,True,False,13,3
+False,Remove unnecessary linq select,dotnetinteractive,False,0,1,1,0,0,418,0,1,1,False,False,30,4
+True,add timeout,dotnetinteractive,False,0,1,1,0,0,124,10,13,3,False,False,11,2
+True,Merge pull request #1670 from colombod/fix_telemetry,dotnetinteractive,True,1,3,3,0,0,1371,30,32,2,False,False,52,6
+False,fail the input gesture if the user hits <ESC>,dotnetinteractive,False,0,3,3,0,0,554,8,21,13,False,False,45,9
+True,dispose of all interactive processes on extension exit (#1962),dotnetinteractive,False,1,4,4,0,0,631,9,21,12,False,False,62,9
+False,Update INTERNAL.md,dotnetinteractive,False,0,1,1,0,0,56,-2,0,2,False,False,18,2
+False,remove optional port,dotnetinteractive,False,0,2,2,0,0,173,-8,6,14,False,False,20,3
+False,use resolved uri query parameters for notebook type (#1711),dotnetinteractive,False,1,5,5,0,0,1101,31,67,36,False,False,59,9
+False,address comment  to remove BlobFeed override,dotnetinteractive,False,0,1,1,0,0,406,0,1,1,False,False,44,6
+True,use more specific exception,dotnetinteractive,False,0,8,7,1,0,571,32,44,12,True,False,27,4
+False,Update LanguageKernelExtensionLoadingTests.cs,dotnetinteractive,False,0,1,1,0,0,121,0,7,7,False,False,45,2
+True,Merge pull request #332 from colombod/feature/skip_js_in_vs_build,dotnetinteractive,True,1,1,1,0,0,217,0,4,4,False,False,65,6
+True,fix #737 (#749),dotnetinteractive,False,2,5,5,0,0,2196,38,56,18,False,False,15,3
+True,fix test,dotnetinteractive,False,0,1,1,0,0,965,1,3,2,False,False,8,2
+True,fix find kernel on composite kernel (#2400),dotnetinteractive,False,1,5,5,0,0,1030,50,52,2,False,False,43,7
+False,improve Type formatting for summary formatter,dotnetinteractive,False,0,3,3,0,0,1007,35,40,5,False,False,45,6
+True,us gc memory pressure,dotnetinteractive,False,0,4,2,2,0,581,34,42,8,True,False,21,4
+True,fix tool version,dotnetinteractive,False,0,2,2,0,0,1700,0,2,2,False,False,16,3
+True,remove bug,dotnetinteractive,False,0,1,1,0,0,81,-1,0,1,False,False,10,2
+False,fire and forget for error notification,dotnetinteractive,False,0,1,1,0,0,218,0,1,1,False,False,38,6
+True,make the test more actionable on error,dotnetinteractive,False,0,1,1,0,0,626,4,4,0,False,False,38,7
+True,remove #! from #!share --from completions,dotnetinteractive,False,0,2,2,0,0,593,0,2,2,False,False,41,6
+True,fix a #!value bug when --from-file submission includes extra lines,dotnetinteractive,False,0,2,2,0,0,398,7,20,13,False,False,66,10
+True,reset vewbiew on kernel restart,dotnetinteractive,False,0,8,8,0,0,1992,161,167,6,False,False,31,5
+False,cache interactive client for vscode (#1130),dotnetinteractive,False,1,3,3,0,0,828,0,3,3,False,False,43,6
+False,create method to  detect unknown actionDirectivenodes,dotnetinteractive,False,0,3,2,1,0,383,18,19,1,True,False,53,6
+False,test proxy kernel,dotnetinteractive,False,0,1,1,0,0,121,59,60,1,False,False,17,3
+True,if no standard python is found will check for default anaconda locations,dotnetinteractive,False,0,2,2,0,0,234,38,39,1,False,False,72,12
+False,Update SignCheckExclusionsFile.txt,dotnetinteractive,False,0,1,1,0,0,8,1,1,0,False,False,34,2
+True,Merge pull request #461 from jonsequitur/formatter-fixes,dotnetinteractive,True,1,23,21,2,0,4085,216,327,111,True,False,56,6
+True,ts kernel noops on undefined handlers if they are for language services,dotnetinteractive,False,0,2,2,0,0,535,27,29,2,False,False,71,12
+False,Condition integration tests on env var RUN_DOTNET_TRY_INTEGRATION_TESTS (#338),dotnetinteractive,False,1,3,2,1,0,348,21,27,6,True,False,78,8
+True,should fail to get formatter for unsupported mimeType,dotnetinteractive,False,0,2,2,0,0,1932,38,45,7,False,False,53,8
+True,rework connect api,dotnetinteractive,False,0,24,16,4,4,2135,61,317,256,True,True,18,3
+True,Address assembly reference issue and add test,dotnetinteractive,False,0,2,2,0,0,632,23,25,2,False,False,45,7
+True,fix browser kernel compatibility,dotnetinteractive,False,0,1,1,0,0,105,5,7,2,False,False,32,4
+True,throw on null key,dotnetinteractive,False,0,1,1,0,0,84,0,1,1,False,False,17,4
+True,fix PowerShell .csproj,dotnetinteractive,False,0,1,1,0,0,84,32,36,4,False,False,22,3
+True,fix #1568,dotnetinteractive,False,1,1,1,0,0,342,0,1,1,False,False,9,2
+False,improve if conditions,dotnetinteractive,False,0,1,1,0,0,720,-1,0,1,False,False,21,3
+True,Bugfix/test fix (#286),dotnetinteractive,False,1,7,6,1,0,1094,40,99,59,True,False,22,3
+True,fix docker file sand yaml,dotnetinteractive,False,0,4,4,0,0,546,0,7,7,False,False,25,5
+True,improve kernel error reporting (#598),dotnetinteractive,False,1,1,1,0,0,105,4,7,3,False,False,37,5
+False,refactor api and made names consistent,dotnetinteractive,False,0,2,2,0,0,585,20,54,34,False,False,38,6
+True,[main] Fix race in KernelScheduler (#3232),dotnetinteractive,False,1,4,4,0,0,939,40,58,18,False,False,42,6
+True,return false on command and restrict cursor position >= 0,dotnetinteractive,False,0,1,1,0,0,1009,4,5,1,False,False,57,10
+False,allow custom environment variables to be set when launching a kernel (#2208),dotnetinteractive,False,1,8,8,0,0,2925,20,28,8,False,False,76,12
+False,add test for complete reply contract,dotnetinteractive,False,0,2,1,1,0,232,37,37,0,True,False,36,6
+True,Fixup feeds (#1046),dotnetinteractive,False,1,4,4,0,0,118,-3,5,8,False,False,19,3
+False,remove unused imports,dotnetinteractive,False,0,1,1,0,0,67,0,1,1,False,False,21,3
+False,Formatter self registration and tabular data improvements (#1346),dotnetinteractive,False,1,69,59,8,2,9431,215,975,760,True,True,65,8
+True,Resolve SQL Tools Service path upon extension load and improve error messages,dotnetinteractive,False,0,5,5,0,0,349,62,92,30,False,False,77,12
+True,"support some additional diagnostics, improve header binding (#3145)",dotnetinteractive,False,1,17,16,0,1,3028,240,434,194,False,True,67,8
+True,revert dependency on sdk acquisition and cache location of dotnet tool (#1094),dotnetinteractive,False,1,6,6,0,0,1703,42,64,22,False,False,78,12
+True,Enable tests (#314),dotnetinteractive,False,1,1,1,0,0,99,-1,1,2,False,False,19,3
+True,bug in vscode extension,dotnetinteractive,False,0,1,1,0,0,87,-1,0,1,False,False,23,4
+False,Expanded tests to cover larger surface areas,emergence,False,0,2,2,0,0,87,2,4,2,False,False,44,7
+True,Addressed code inspection,emergence,False,0,1,1,0,0,281,5,5,0,False,False,25,3
+False,Added actor object,emergence,False,0,7,5,1,1,298,12,34,22,True,True,18,3
+False,F# generation,emergence,False,0,7,5,2,0,111,32,39,7,True,False,13,2
+False,Set up CI with Azure Pipelines,emergence,False,0,1,0,1,0,33,33,33,0,True,False,30,6
+False,Better mapping,emergence,False,0,2,2,0,0,100,7,18,11,False,False,14,2
+False,Beginning room JSON loading.,emergence,False,0,3,2,1,0,116,63,64,1,True,False,28,4
+False,Update azure-pipelines.yml for Azure Pipelines,emergence,False,0,1,1,0,0,39,-6,3,9,False,False,46,5
+False,Added a model of player knowledge of various tiles.,emergence,False,0,7,6,1,0,1116,58,65,7,True,False,51,9
+False,Work on parsing,emergence,False,0,7,7,0,0,1405,15,43,28,False,False,15,3
+False,WIP on using the big boy context,emergence,False,0,5,5,0,0,504,18,29,11,False,False,32,7
+False,UI now supports command listing,emergence,False,0,5,4,1,0,480,60,87,27,True,False,31,5
+False,"Added void, coloration, icon",emergence,False,0,7,6,1,0,256,75,87,12,True,False,28,4
+False,Work on map generation,emergence,False,0,6,6,0,0,118,6,20,14,False,False,22,4
+False,Effects are messages,emergence,False,0,2,2,0,0,359,0,10,10,False,False,20,3
+False,Early active / targeted command work,emergence,False,0,6,5,1,0,432,52,71,19,True,False,36,6
+False,Added hotkeys for command execution,emergence,False,0,1,1,0,0,106,40,41,1,False,False,35,5
+False,Reduced random impact from the test scenario.,emergence,False,0,3,3,0,0,621,6,16,10,False,False,45,7
+False,Added teleportation tests. Starting to refactor test cases.,emergence,False,0,6,4,2,0,318,55,91,36,True,False,59,8
+False,Handling game over states,emergence,False,0,7,7,0,0,1514,52,174,122,False,False,25,4
+False,Moved radius logic to new method to reduce complexity,emergence,False,0,1,1,0,0,270,8,14,6,False,False,53,9
+True,Added tests around attacks,emergence,False,0,2,2,0,0,442,28,45,17,False,False,26,4
+True,Fixed a number of pathfinding bugs,emergence,False,0,9,7,2,0,909,99,102,3,True,False,34,6
+False,Added LoS indicators,emergence,False,0,7,6,1,0,1322,48,65,17,True,False,20,3
+True,Flee behavior now prioritizes open areas,emergence,False,0,2,2,0,0,253,45,50,5,False,False,40,6
+False,Better casting,emergence,False,0,1,1,0,0,1553,-2,2,4,False,False,14,2
+True,Simplified encounter generation code,emergence,False,0,1,1,0,0,180,-6,21,27,False,False,36,4
+False,Added a pair of VM tests,emergence,False,0,8,6,2,0,823,46,64,18,True,False,24,6
+False,Added basic vision tests,emergence,False,0,2,1,1,0,141,47,47,0,True,False,24,4
+False,Added game manager tests,emergence,False,0,3,2,1,0,166,69,70,1,True,False,24,4
+True,Improved unit test performance,emergence,False,0,1,1,0,0,66,-2,3,5,False,False,30,4
+False,Command execution is now invokable from the UI,emergence,False,0,11,10,1,0,1206,48,61,13,True,False,46,8
+False,Added an explosion test,emergence,False,0,3,2,1,0,197,44,44,0,True,False,23,4
+False,Added a helpy wander test,emergence,False,0,2,2,0,0,74,18,22,4,False,False,25,5
+False,Updated documentation,gitstractor,False,0,1,1,0,0,45,1,2,1,False,False,21,2
+False,Update README.md,gitstractor,False,0,1,1,0,0,23,2,3,1,False,False,16,2
+False,Displaying progress,gitstractor,False,0,3,1,2,0,170,99,123,24,True,False,19,2
+False,Added Power BI instructions and template,gitstractor,False,0,5,2,3,0,3643,20,24,4,True,False,40,6
+False,Create CONTRIBUTING.md,gitstractor,False,0,1,0,1,0,5,5,5,0,True,False,22,2
+True,Cleaned up visuals,gitstractor,False,0,1,1,0,0,1342,0,0,0,False,False,18,3
+False,Beginning inclusion of PowerBI Prototype,gitstractor,False,0,1,0,1,0,1318,0,0,0,True,False,40,5
+False,Author writing,gitstractor,False,0,5,4,1,0,291,82,97,15,True,False,14,2
+False,Create .github/FUNDING.yml,gitstractor,False,0,1,0,1,0,13,13,13,0,True,False,26,2
+False,Added bytes,gitstractor,False,0,3,3,0,0,246,19,26,7,False,False,11,2
+True,Some significant cleanup and tests for commit extraction,gitstractor,False,0,14,7,7,0,609,223,322,99,True,False,56,8
+True,Fixed linux extraction bug when directory doesn't exist,gitstractor,False,0,1,1,0,0,62,3,3,0,False,False,55,8
+True,"Fixed bad CSV value, added FileCommits.csv",gitstractor,False,0,7,6,1,0,390,48,72,24,True,False,42,6
+True,Better author testing,gitstractor,False,0,7,5,2,0,356,55,122,67,True,False,21,3
+True,Fixed CommiterDate column in Notebook,gitstractor,False,0,1,1,0,0,92767,0,63,63,False,False,37,5
+True,Revised readme since the project is now technically usable.,gitstractor,False,0,1,1,0,0,53,30,37,7,False,False,59,9
+False,Update dependencies from https://github.com/dotnet/arcade build 20240510.2 (#7151),mlnet,False,1,7,7,0,0,1429,100,177,77,False,False,82,7
+False,Using internal TempFilePath (#6180),mlnet,False,1,4,4,0,0,2118,4,16,12,False,False,35,4
+False,Add Backport github workflow (#6944),mlnet,False,1,1,0,1,0,29,29,29,0,True,False,36,5
+False,Updated build docs for .NET Core 3.1 (#4967),mlnet,False,1,3,3,0,0,149,5,12,7,False,False,44,8
+False,Simplify CodeGen - phase 2 (#4972),mlnet,False,1,15,14,1,0,2772,103,154,51,True,False,34,6
+False,Update TorchSharp to 0.98.3 (#6436),mlnet,False,1,1,1,0,0,83,0,1,1,False,False,35,5
+False,Add more required Tokenizer APIs (#7114),mlnet,False,1,4,4,0,0,1870,143,149,6,False,False,40,6
+False,Created sample for 'LatentDirichletAllocation' API. (#3191),mlnet,False,1,3,1,1,1,621,13,75,62,True,True,60,6
+False,Adds a type='bullet' tag to the documentation so that the bulleted list (#2450),mlnet,False,1,1,1,0,0,139,0,1,1,False,False,79,13
+False,Add doc comments (#1596),mlnet,False,1,1,1,0,0,938,173,175,2,False,False,24,4
+False,"XML docs for Permutation feature importance for Binary, Multi-class and Ranking trainers. (#3455)",mlnet,False,1,5,5,0,0,1037,-1,22,23,False,False,97,13
+False,Added release notes for v1.5 release and updated version info (#5151),mlnet,False,1,2,1,1,0,121,79,81,2,True,False,69,11
+False,XML documentation for FastForest binary classification. (#3399),mlnet,False,1,3,2,1,0,769,45,51,6,True,False,63,7
+False,Add Xunit.Combinatorial for test projects (#4545),mlnet,False,1,2,2,0,0,110,2,2,0,False,False,49,6
+False,Towards #3204 - documentation for FeatureContributionCalculatingEstimator (#3384),mlnet,False,2,2,2,0,0,447,19,67,48,False,False,81,7
+False,Tensorflow GetModelSchema should support unfrozen models (#2112),mlnet,False,1,2,2,0,0,1093,5,17,12,False,False,64,7
+False,Confidence Intervals for Permutation Feature Importance (#1844),mlnet,False,1,4,4,0,0,1655,220,540,320,False,False,63,7
+True,Provide seed parameter for TrainTest routine (#1885),mlnet,False,1,4,4,0,0,1445,30,108,78,False,False,52,7
+False,"Update Onnx Convert documentation, limited to ONNX-ML target platforms",mlnet,False,0,1,1,0,0,76,-1,5,6,False,False,70,9
+False,Moving FastTree from Runtime to Trainers.  (#1347),mlnet,False,1,109,109,0,0,43037,41,246,205,False,False,50,7
+False,Enable the internal code analyzer for test projects (#4731),mlnet,False,1,2,2,0,0,92,32,33,1,False,False,59,9
+False,Extract IsTestMethod to a shared analyzer helper (#4802),mlnet,False,1,3,1,2,0,159,25,57,32,True,False,56,8
+False,These changes allow for ML.NET to be built from source by VS2019  (#3742),mlnet,False,1,3,3,0,0,277,3,16,13,False,False,73,13
+False,Adding release notes for v0.11 (#2860),mlnet,False,1,1,0,1,0,40,40,40,0,True,False,38,6
+False,Update release notes. (#3825),mlnet,False,1,1,1,0,0,118,0,1,1,False,False,29,4
+False,Documentation for Multiclass SDCA (#3433),mlnet,False,1,2,2,0,0,1550,123,139,16,False,False,41,5
+False,Adding Shuffle to the catalog (#2427),mlnet,False,1,4,3,1,0,1074,102,108,6,True,False,37,6
+False,Using the latest Numeric vector apis (#2082),mlnet,False,1,5,5,0,0,4296,0,134,134,False,False,44,7
+False,upgrade to .NET Interactive 1.0.0-beta.22103.1 (#6089),mlnet,False,1,3,3,0,0,220,0,8,8,False,False,54,6
+False,Make array argument names plural (#2124),mlnet,False,1,112,112,0,0,97371,19,640,621,False,False,40,6
+False,Use short-circuit logic (#5824),mlnet,False,1,46,46,0,0,44044,0,195,195,False,False,31,4
+False,upgrade hosted mac agent pool to use new version of mac os (#4897),mlnet,False,1,5,5,0,0,745,0,5,5,False,False,66,13
+False,Package FastTree. (#2764),mlnet,False,1,9,7,2,0,407,22,25,3,True,False,25,3
+False,Attribution of images in test/data/images (#771),mlnet,False,1,1,1,0,0,57,12,14,2,False,False,48,6
+False,Added convenience constructors for ScoreTransform and TrainAndScoreTransform. (#614),mlnet,False,1,1,1,0,0,259,72,76,4,False,False,84,8
+False,Better explanation of Score's initial value (#1513),mlnet,False,1,1,1,0,0,115,1,5,4,False,False,51,7
+False,XML documentation for Poisson Regression trainer. (#3404),mlnet,False,1,2,2,0,0,1082,19,26,7,False,False,57,7
+False,Adds the openmp library to the MklRedist nuget package. (#3023),mlnet,False,1,1,1,0,0,128,2,2,0,False,False,63,10
+False,Brew install libomp 7.0.0 only. (#3721),mlnet,False,1,3,3,0,0,400,0,4,4,False,False,39,6
+False,Update PACKAGE.md to include Llama info (#7104),mlnet,False,1,1,1,0,0,87,26,26,0,False,False,47,7
+False,Publish nugets to temporary myget feed (#3400),mlnet,False,1,1,1,0,0,264,0,7,7,False,False,46,7
+False,Bump the master branch to 0.6 (#782),mlnet,False,1,1,1,0,0,8,0,1,1,False,False,36,7
+False,Added documentation regarding TextLoader's hasHeader field (#4655),mlnet,False,1,2,2,0,0,1819,20,25,5,False,False,66,7
+False,Update README.md for 0.5,mlnet,False,0,1,1,0,0,102,0,1,1,False,False,24,4
+False,Added reference to ImageAnalytics nuget so that the image transforms/learners will be packaged. (#662),mlnet,False,1,1,1,0,0,19,1,1,0,False,False,102,14
+False,Polish standard trainers' catalog (Just rename some variables) (#3029),mlnet,False,1,20,20,0,0,9655,1,149,148,False,False,70,9
+False,add InternalsVisibleTo to a couple of projects (#3719),mlnet,False,1,2,2,0,0,41,2,2,0,False,False,54,8
+False,Create links to detail sections (#1149),mlnet,False,1,1,1,0,0,153,0,6,6,False,False,39,6
+False,Rename NameEntity to NamedEntity (#6917),mlnet,False,1,5,5,0,0,1385,43,59,16,False,False,40,5
+False,Data catalog done (#3021),mlnet,False,1,4,3,1,0,731,134,154,20,True,False,25,4
+False,Adding more metrics to BinaryClassification Experiment (#6571),mlnet,False,1,3,3,0,0,1418,-6,50,56,False,False,62,7
+False,Update dependencies from https://github.com/dotnet/arcade build 20240112.5 (#6957),mlnet,False,1,10,10,0,0,2017,17,39,22,False,False,82,7
+False,[main] Update dependencies from dotnet/arcade (#6148),mlnet,False,1,3,3,0,0,225,0,16,16,False,False,53,6
+False,Increment build version to 1.3 for release and 0.15 for preview. (#3956),mlnet,False,1,1,1,0,0,38,0,2,2,False,False,72,12
+False,Added onnx export status for all estimators and trainers (#4593),mlnet,False,1,75,75,0,0,47858,48,85,37,False,False,64,10
+False,Rename DataView Metadata to Annotations. (#2712),mlnet,False,1,160,160,0,0,98927,-3,1254,1257,False,False,48,6
+False,Load TransformerChain model file in ModelFileUtils (#4110),mlnet,False,1,3,3,0,0,6675,105,106,1,False,False,58,7
+False,Release notes for 3.0 (#6888),mlnet,False,1,1,0,1,0,135,135,135,0,True,False,29,5
+False,Mark Microsoft.Extensions.ML as a stable package. (#4356),mlnet,False,1,2,2,0,0,57,2,2,0,False,False,57,7
+False,Update locker.yml (#7133),mlnet,False,1,1,1,0,0,37,1,2,1,False,False,25,3
+False,[main] Update dependencies from dotnet/arcade (#6126),mlnet,False,1,3,3,0,0,225,0,15,15,False,False,53,6
+False,Preparation for syncing sources with internal repo (#275),mlnet,False,1,1,1,0,0,309,10,11,1,False,False,57,8
+False,Adding another handful transform's extensions (#1494),mlnet,False,1,7,3,4,0,430,182,196,14,True,False,53,6
+False,Update documentation for MissingValues (#3386),mlnet,False,1,4,4,0,0,1919,5,77,72,False,False,46,5
+False,Adding a new ubuntu CI leg (#2516),mlnet,False,1,6,5,1,0,624,61,69,8,True,False,34,7
+False,Update dependencies from https://github.com/dotnet/arcade build 20220406.10 (#6153),mlnet,False,1,7,7,0,0,962,90,197,107,False,False,83,7
+False,Renamed master to main (#5717),mlnet,False,1,26,26,0,0,4824,0,191,191,False,False,30,5
+False,Enable MSML_TypeParamName for the full solution (#4762),mlnet,False,1,2,2,0,0,438,-3,2,5,False,False,55,7
+False,Updated branch version (#5400),mlnet,False,1,1,1,0,0,40,0,2,2,False,False,30,4
+False,Update description about key type and add one more reference (#3170),mlnet,False,1,1,1,0,0,569,-2,11,13,False,False,68,11
+False,Update name of DataFrame.WriteCsv to SaveCsv (#6349),mlnet,False,1,2,2,0,0,1867,34,51,17,False,False,52,7
+False,XML documentation for transforms (#3428),mlnet,False,1,6,6,0,0,2344,53,100,47,False,False,40,5
+False,Created DoubleParser.OptionFlags to be used internally by TextLoader (#5154),mlnet,False,1,42,42,0,0,35709,159,315,156,False,False,76,9
+True,Ensure all Microsoft.ML assemblies are loaded by the LearningPipeline API. (#1082),mlnet,False,1,4,3,1,0,651,73,75,2,True,False,82,11
+True,TextLoader throws when type is missing LoadColumnAttribute (#3071),mlnet,False,1,2,2,0,0,2349,-4,4,8,False,False,66,8
+True,Handle Indexed Pixel Format correctly in Image Resize transform. (#3601),mlnet,False,1,4,2,2,0,2615,12,15,3,True,False,72,10
+False,Converted Schema to a class (#1167),mlnet,False,1,151,149,1,1,89239,206,1447,1241,True,True,35,6
+True,fixed typo (#3445),mlnet,False,1,1,1,0,0,222,0,1,1,False,False,18,3
+True,Fix bounding checking error of SSE SumU intrinsic (#822),mlnet,False,1,1,1,0,0,1187,0,1,1,False,False,56,9
+True,Ensure BufferBlocks are completed and empty in RowShufflingTransformer. (#4479),mlnet,False,1,1,1,0,0,739,14,22,8,False,False,79,9
+True,Fixed xref formatting (#4647),mlnet,False,1,1,1,0,0,992,0,2,2,False,False,29,4
+False,Update unix instructions for x-compiling on ARM (#5811),mlnet,False,1,1,1,0,0,79,3,4,1,False,False,55,8
+False,Cumulative changes based on 0.6 bag bash (#1079),mlnet,False,1,4,4,0,0,2123,21,59,38,False,False,48,8
+False,Add sample for stop words removing. (#2236),mlnet,False,1,5,3,1,1,1068,124,147,23,True,True,43,7
+False,Refactoring clustering catalog samples line width to 85 (#3595),mlnet,False,1,4,4,0,0,481,84,164,80,False,False,63,9
+False,Key to binary samples for documentation (#3211),mlnet,False,1,6,3,3,0,1168,241,241,0,True,False,47,7
+True,Fixes #4571. About memory leak when using FeaturizeText. (#4576),mlnet,False,2,3,2,1,0,1230,181,184,3,True,False,64,9
+True,Add try catch block to skip bad(failing to read) images (#4350),mlnet,False,1,2,2,0,0,3412,99,116,17,False,False,63,11
+True,Exclude files not authored by ML.NET from code coverage (#2290),mlnet,False,1,1,1,0,0,50,2,2,0,False,False,63,10
+False,SchemaShape.Column metadata is now SchemaShape not string array (#845),mlnet,False,1,13,13,0,0,5987,32,132,100,False,False,70,9
+False,Move entrypoints from Microsoft.ML.Legacy to Microsoft.ML.Entrypoints. (#1859),mlnet,False,1,26,22,4,0,3640,55,65,10,True,False,78,7
+True,Support back compat for ngram hash (#1988),mlnet,False,1,3,2,1,0,3759,89,100,11,True,False,42,7
+True,Fixes cases of invalid image folder path and input column name (#4691),mlnet,False,1,1,1,0,0,440,2,6,4,False,False,70,12
+False,Use interface IProgress instead of Progress in AutoML ExperimentBase (#6055),mlnet,False,1,1,1,0,0,378,0,1,1,False,False,76,10
+True,"Updated AucAggregator.cs ComputeWeightedAuc method to fix spelling issue of ""defined"" in message (#3613)",mlnet,False,1,1,1,0,0,569,0,2,2,False,False,104,13
+False,Convert CharTokenize to estimator (#1294),mlnet,False,1,8,7,1,0,3218,120,465,345,True,False,41,5
+True,Fix bug with order of pixels in the Interleave=true case (#2130),mlnet,False,1,2,2,0,0,1124,0,4,4,False,False,64,11
+False,Image Classification Sample cleanup (#4380),mlnet,False,1,4,4,0,0,1430,58,464,406,False,False,43,5
+True,Lockdown Microsoft.ML.Onnx public surface (#2625),mlnet,False,1,55,55,0,0,38032,17,3997,3980,False,False,49,5
+True,Fixes #3992 and corner case of inputColumnNames on FeaturizeText (#4211),mlnet,False,2,2,2,0,0,1394,92,94,2,False,False,72,10
+False,Test for Metadata Support In DataView Construction (#1836),mlnet,False,1,2,2,0,0,1301,82,83,1,False,False,58,8
+True,Issue 4120 (#4297),mlnet,False,1,1,1,0,0,105,2,4,2,False,False,18,3
+False,Return distinct array of ParameterSet when ProposeSweep is called (#368),mlnet,False,1,5,3,2,0,861,93,97,4,True,False,72,10
+True,Add missing implementation for datetime relevant arrow type into dataframe (#6675),mlnet,False,1,7,7,0,0,4331,29,60,31,False,False,82,11
+True,Changed all MLContext creation to include a fixed seed (#4736),mlnet,False,1,49,49,0,0,20312,0,149,149,False,False,62,10
+True,Modified Tensorflow ImageClassification tests to make them faster (#4447),mlnet,False,1,1,1,0,0,1902,0,104,104,False,False,73,9
+True,Fix some SDCA documentation issues (#3533),mlnet,False,1,4,4,0,0,2558,5,11,6,False,False,42,6
+True,Fix the build badge link (#4267),mlnet,False,1,1,1,0,0,143,0,6,6,False,False,32,6
+False,adding the functions used to build MlNetMklDeps for 0.0.0.6 (#1182),mlnet,False,1,4,0,4,0,148,148,148,0,True,False,67,10
+False,Add debug asserts (#1566),mlnet,False,1,2,2,0,0,3747,57,57,0,False,False,25,4
+True,Update TreeTrainersCatalog to use standard parameter names (#2880),mlnet,False,1,3,3,0,0,870,0,20,20,False,False,66,8
+False,update interactive package versino (#6378),mlnet,False,1,1,1,0,0,85,0,2,2,False,False,42,5
+False,Split out non concurrent test collections. (#6937),mlnet,False,1,22,20,2,0,5471,68,111,43,True,False,50,7
+True,fix doc for the KeyToBinaryVectorMappingEstimator (#3536),mlnet,False,1,2,2,0,0,540,15,20,5,False,False,57,6
+True,Fixes locale dependent test output comparisons (#109),mlnet,False,1,1,1,0,0,88,7,7,0,False,False,53,7
+True,Fix documentation for LightGbm parameter (#3695),mlnet,False,1,1,1,0,0,1154,-1,1,2,False,False,48,6
+True,ML.Net nuget missing a dependency on System.Collections.Immutable (#981),mlnet,False,1,1,1,0,0,23,1,1,0,False,False,72,8
+True,Fix the build (#2682),mlnet,False,1,1,1,0,0,605,0,2,2,False,False,21,4
+True,Prevent annoying error in VSmac (#219),mlnet,False,1,7,7,0,0,149,7,9,2,False,False,38,6
+True,Polish GetColumn on IDataView (#2738),mlnet,False,1,25,25,0,0,5963,62,174,112,False,False,37,5
+False,"Docs 2nd pass for NaiveBayes, KMeans, OVA, Pairwise and OnnxTransformer (#3387)",mlnet,False,1,9,6,1,2,4204,49,175,126,True,True,79,11
+False,Add SamplingKeyColumnName to AutoMLExperiment (#6649),mlnet,False,1,4,4,0,0,1003,25,28,3,False,False,53,5
+False,Stop using System.ComponentModel.Composition (#2569),mlnet,False,1,15,13,2,0,4669,105,196,91,True,False,52,4
+False,Exposed ngram extraction options in TextFeaturizer (#2911),mlnet,False,1,9,9,0,0,7962,36,129,93,False,False,58,7
+False,Added RankingEvaluatorOptions and removed the truncation limit.  (#4081),mlnet,False,1,6,5,1,0,5324,168,233,65,True,False,72,8
+True,more transform => transformer renaming (#1590),mlnet,False,1,25,25,0,0,33011,0,222,222,False,False,46,6
+False,small code cleanup (#271),mlnet,False,1,10,10,0,0,4419,-5,41,46,False,False,25,4
+True,moving onedal nuget download from onedal to native where its needed for building. (#6527),mlnet,False,1,2,2,0,0,291,-1,16,17,False,False,89,14
+False,Internalizing MetadataUtils (#1893),mlnet,False,1,62,62,0,0,32743,34,193,159,False,False,35,3
+False,Update some test package dependencies (#6161),mlnet,False,1,3,3,0,0,261,10,14,4,False,False,45,6
+False,Normalization API helpers (#446),mlnet,False,1,10,10,0,0,12098,57,157,100,False,False,32,4
+False,"Cleaned and fixed public API surface for KMeans, NaiveBayes, OLS. (#2819)",mlnet,False,1,17,16,1,0,40956,42,148,106,True,False,73,11
+False,Add two-variable scenario in Tensor shape inference for TensorflowTransform (#5257),mlnet,False,1,3,3,0,0,3000,45,48,3,False,False,83,10
+True,Handle lightgbm output in different locales properly (#2345),mlnet,False,1,2,2,0,0,738,17,23,6,False,False,60,8
+False,Add option to execute only the last transform in TransformWrapper and have WordBagEstimator return transformer chain (#3700),mlnet,False,1,8,6,2,0,7737,49,169,120,True,False,124,17
+True,Fix SoftMax precision by utilizing double in the internal calculations (#3676),mlnet,False,1,1,1,0,0,762,2,6,4,False,False,78,11
+False,Add SECURITY.md (#6420),mlnet,False,1,1,0,1,0,41,41,41,0,True,False,23,3
+False,Full Model Retrain Sample  (#4127),mlnet,False,1,1,0,1,0,236,236,236,0,True,False,34,5
+False,Add tests for ParameterSet equality (#4550),mlnet,False,1,1,1,0,0,276,37,37,0,False,False,43,6
+False,Internalize LpNorm column options. (#3078),mlnet,False,1,1,1,0,0,923,0,4,4,False,False,42,5
+True,Fix spelling (#1258),mlnet,False,1,1,1,0,0,988,0,1,1,False,False,20,3
+True,Mark UInt128 and other obvious readonly structs as readonly. (#1496),mlnet,False,1,46,46,0,0,33275,0,61,61,False,False,68,10
+False,Update Load8 with GatherVector256 instruction for .NET Core 3 (#1200) fixes #1195,mlnet,False,2,1,1,0,0,1505,10,11,1,False,False,81,12
+True,Added exception for NaN eigenvectors on PCA (#5349),mlnet,False,1,2,2,0,0,972,42,46,4,False,False,51,8
+True,Added time series and DateTimeTransformer tests that load its input from a file (#5063),mlnet,False,1,5,2,3,0,1072,174,187,13,True,False,87,14
+True,fix #6416 (#6612),mlnet,False,2,1,1,0,0,365,-1,70,71,False,False,17,3
+False,Early permutation work,wherewolf,False,0,6,4,2,0,320,71,75,4,True,False,22,3
+False,Added knowledge test for lone wolf,wherewolf,False,0,2,1,1,0,131,47,47,0,True,False,34,6
+False,Lone wolf peek is now fully implemented,wherewolf,False,0,10,7,2,1,387,91,104,13,True,True,39,7
+False,Structuring early application.,wherewolf,False,0,8,3,5,0,196,113,119,6,True,False,30,3
+False,Saw other wolves event,wherewolf,False,0,9,8,1,0,351,60,66,6,True,False,22,4
+False,Rendering final probabilities as well as start probabilities,wherewolf,False,0,1,1,0,0,123,13,38,25,False,False,60,8
+False,Reorganizing for game setup and early probability,wherewolf,False,0,16,14,2,0,866,49,183,134,True,False,49,7
+False,Added a mechanism to get all possible worlds,wherewolf,False,0,9,6,3,0,573,124,163,39,True,False,44,8
+False,Beginnings of night phase,wherewolf,False,0,19,12,7,0,852,181,218,37,True,False,25,4
+False,Support-based calculation of start cards,wherewolf,False,0,3,2,0,1,88,14,32,18,False,True,40,5
+False,Brute force probability seems to be working,wherewolf,False,0,2,2,0,0,202,77,77,0,False,False,43,7
+True,Fixed path to Wherewolf,wherewolf,False,0,5,4,1,0,78,6,6,0,True,False,23,4
+True,Replicated bug with a test,wherewolf,False,0,3,2,1,0,474,86,97,11,True,False,26,5
+False,Early implementation of Robber,wherewolf,False,0,14,10,4,0,614,161,190,29,True,False,30,4
